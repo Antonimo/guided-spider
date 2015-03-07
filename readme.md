@@ -10,7 +10,7 @@ but you can't find the type of script you want in python.
 
  	Worker pool
     Auth(Cookies), csrf token
-    UTF8(detect charset and covert) 
+    UTF8(detect charset and convert) 
     url filter(guide bit)
     cache, duplicates, checksum
     dest/raw structure(assets bit)
@@ -23,7 +23,6 @@ but you can't find the type of script you want in python.
     update links to point to local files
 
 
-## Usage
 
 
 
